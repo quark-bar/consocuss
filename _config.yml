@@ -1,0 +1,12 @@
+# Site settings
+title: Consocuss
+email: themes@bytrigonal.com
+description: "Consocuss jekyll theme"
+baseurl: ""
+url: "http://consocuss.bytrigonal.com"
+twitter_username: bytrigonal
+github_username:  trigonal
+
+# Build settings
+markdown: kramdown
+permalink: pretty
