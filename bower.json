@@ -1,0 +1,22 @@
+{
+  "name": "Consocuss-theme",
+  "version": "0.1.0",
+  "main": "css/main.css",
+  "homepage": "https://github.com/trigonal/consocuss",
+  "authors": [
+    "Ricardo Ramirez <hola@ricardoerl.com>"
+  ],
+  "description": "Consocuss theme dependencies",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/_bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "Naver": "~3.0.8"
+  }
+}
