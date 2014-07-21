@@ -2,3 +2,5 @@ _site
 .gitignore
 node_modules
 bower_components
+.sass-cache
+css/main.css

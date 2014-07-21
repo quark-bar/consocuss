@@ -1,7 +1,16 @@
 {
   "name": "Consocuss-theme",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trigonal/consocuss.git"
+  },
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jekyll": "^0.4.2",
+    "load-grunt-tasks": "^0.6.0",
+    "time-grunt": "^0.4.0"
   }
 }
